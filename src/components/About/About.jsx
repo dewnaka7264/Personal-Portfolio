@@ -4,8 +4,8 @@ import styles from "./About.module.css"
 const About = () => {
     return (
         <section className={styles.container} id="about">
-<h2 className={styles.content}>About</h2>
-            <div>
+<h2 className={styles.title}>About</h2>
+            <div className={styles.content}>
                 <img src={getImageURL()} alt="Dewnaka image " className={styles.aboutImage}/>
             </div>
             <ul className={styles.aboutItems}>
