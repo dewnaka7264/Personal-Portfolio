@@ -1,23 +1,24 @@
 import React from 'react';
 import {getImageURL} from "../../utils.js";
-
+import styles from "./About.module.css"
 const About = () => {
     return (
-        <section>
-<h2>About</h2>
+        <section className={styles.container}>
+<h2 className={styles.content}>About</h2>
             <div>
-                <img src={getImageURL()} alt="Dewnaka image "/>
+                <img src={getImageURL()} alt="Dewnaka image " className={styles.aboutImage}/>
             </div>
-            <ul><li><img src={getImageURL("About/cursor-icon.")} alt="cursor"/>
-                <div>
+            <ul className={styles.aboutItems}>
+                <li className={styles.aboutItem}><img src={getImageURL("About/cursor-icon.")} alt="cursor"/>
+                <div className={styles.aboutItemText}>
                    <h3>Full Stack Developer</h3>
                     <p>As a Software Engineer, I design, develop, and maintain software applications. My strong programming skills in Java, Python, and JavaScript,
                         combined with my experience in React and Firebase, allow me to contribute effectively to various software development projects.
                         I work closely with cross-functional teams to create high-quality software solutions that meet client requirements and enhance user experience.</p>
                 </div>
             </li>
-                <li><img src={getImageURL("About/web-icon.")} alt="web"/>
-                    <div>
+                <li className={styles.aboutItem}><img src={getImageURL("About/web-icon.")} alt="web"/>
+                    <div className={styles.aboutItemText}>
                         <h3>Software Engineer</h3>
                         <p>In my role as a Full Stack Developer, I leverage my knowledge of both front-end and back-end technologies to
                             develop fully functioning web applications. With expertise in React.js for front-end development and Firebase for back-end services,
@@ -27,8 +28,8 @@ const About = () => {
                         </p>
                     </div>
                 </li>
-                <li><img src={getImageURL("About/web-icon.")} alt="web"/>
-                    <div>
+                <li className={styles.aboutItem}><img src={getImageURL("About/web-icon.")} alt="web"/>
+                    <div className={styles.aboutItemText}>
                         <h3> Machine Learning Engineer</h3>
                         <p>I am well-equipped to pursue a role as a Machine Learning Engineer. I develop and optimize machine learning models,
                             perform data pre-processing, and interpret complex datasets to extract meaningful insights. My understanding of R and Python is
