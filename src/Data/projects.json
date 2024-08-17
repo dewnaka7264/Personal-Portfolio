@@ -33,8 +33,8 @@
   },
   {
     "title": "MindVault (Group Project)",
-    "imageSrc": "Projects/mindvault.png",
-    "description": "A project focused on secure data storage and management, with user authentication and encrypted storage features.",
+    "imageSrc": "Projects/mindvaultpng.png",
+    "description": "A project to tackle forgetting learnt things along with eye protecting feature.",
     "skills": ["Java", "Spring Boot", "MySQL", "Docker"],
     "demo": "https://your-demo-link.com",
     "source": "https://github.com/dewnaka7264/mindvault"
