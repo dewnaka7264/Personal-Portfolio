@@ -48,6 +48,9 @@
     background-repeat: no-repeat;
     transition: 0.5s;
 }
+.aboutItem img{
+    width: 10%;
+}
 .aboutItem:hover{
     background-size: 100% 100% ;
 }

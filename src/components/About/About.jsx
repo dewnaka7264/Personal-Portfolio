@@ -9,7 +9,7 @@ const About = () => {
                 <img src={getImageURL()} alt="Dewnaka image " className={styles.aboutImage}/>
             </div>
             <ul className={styles.aboutItems}>
-                <li className={styles.aboutItem}><img src={getImageURL("About/cursor-icon.")} alt="cursor"/>
+                <li className={styles.aboutItem}><img src={getImageURL("About/web-development.png")} alt="cursor"/>
                 <div className={styles.aboutItemText}>
                    <h3>Web Development</h3>
                     <p>As a Software Engineer, I design, develop, and maintain software applications. My strong programming skills in Java, Python, and JavaScript,
@@ -17,7 +17,7 @@ const About = () => {
                         I work closely with cross-functional teams to create high-quality software solutions that meet client requirements and enhance user experience.</p>
                 </div>
             </li>
-                <li className={styles.aboutItem}><img src={getImageURL("About/web-icon.")} alt="web"/>
+                <li className={styles.aboutItem}><img src={getImageURL("About/software-development.png")} alt="web"/>
                     <div className={styles.aboutItemText}>
                         <h3>Software Development</h3>
                         <p>In my role as a Full Stack Developer, I leverage my knowledge of both front-end and back-end technologies to
@@ -28,7 +28,7 @@ const About = () => {
                         </p>
                     </div>
                 </li>
-                <li className={styles.aboutItem}><img src={getImageURL("About/web-icon.")} alt="web"/>
+                <li className={styles.aboutItem}><img src={getImageURL("About/machine-learning.png")} alt="web"/>
                     <div className={styles.aboutItemText}>
                         <h3> Machine Learning</h3>
                         <p>I am well-equipped to pursue a role as a Machine Learning Engineer. I develop and optimize machine learning models,

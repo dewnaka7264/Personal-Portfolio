@@ -53,5 +53,40 @@
     font-weight: 500;
 }
 .education{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    gap:40px;
+
+
+}
+.educationIn{
+    display: flex;
+    flex-direction: row;
+    gap:17px;
+    background: #19376d;
+    background: linear-gradient(90deg,#19376d,rgba(25,55,1109,0) 100%);
+    border-radius: 10px;
+    padding: 24px;
+
+
+}
+.educationIn img{
+    width: 50px;
+}
+.educationItemDetails{
+    font-family: var(--font-robot);
+
+}
+.educationItemDetails h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.educationItemDetails ul{
+    margin-top: 6px;
+    list-style-position: inside;
+    font-size: 25px;
+    list-style-type: disc;
 
 }
