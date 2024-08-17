@@ -8,7 +8,7 @@
     "source": "https://github.com/dewnaka7264/ecommerce-website"
   },
   {
-    "title": "Sports Club Website",
+    "title": "Sports Club Website(Group Project)",
     "imageSrc": "Projects/sportsclub.png",
     "description": "An interactive website created using HTML, CSS, and JavaScript, featuring an interactive quiz, sitemap, and other engaging elements.",
     "skills": ["HTML", "CSS", "JavaScript"],
@@ -25,6 +25,14 @@
   },
   {
     "title": "Path Finding Program for Puzzles",
+    "imageSrc": "Projects/pathfinding.png",
+    "description": "A project built to find the shortest path and the distance between two nodes using Dijkstra’s algorithm.",
+    "skills": ["Java", "Algorithms", "Data Structures"],
+    "demo": "https://your-demo-link.com",
+    "source": "https://github.com/dewnaka7264/path-finding-program"
+  },
+  {
+    "title": "MindVault(Group Project)",
     "imageSrc": "Projects/pathfinding.png",
     "description": "A project built to find the shortest path and the distance between two nodes using Dijkstra’s algorithm.",
     "skills": ["Java", "Algorithms", "Data Structures"],
