@@ -8,8 +8,8 @@
     "source": "https://github.com/dewnaka7264/ecommerce-website"
   },
   {
-    "title": "Sports Club Website(Group Project)",
-    "imageSrc": "Projects/sportsclub.png",
+    "title": "Sports Club Website (Group Project)",
+    "imageSrc": "Projects/skyhawks.png",
     "description": "An interactive website created using HTML, CSS, and JavaScript, featuring an interactive quiz, sitemap, and other engaging elements.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://your-demo-link.com",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Eye Tracking Project",
-    "imageSrc": "Projects/eyetracking.png",
+    "imageSrc": "Projects/EyeTracking.png",
     "description": "A real-time face and eye detection system implemented using pre-trained models and Haar Cascade classifiers.",
     "skills": ["Python", "OpenCV", "Machine Learning"],
     "demo": "https://your-demo-link.com",
@@ -32,11 +32,19 @@
     "source": "https://github.com/dewnaka7264/path-finding-program"
   },
   {
-    "title": "MindVault(Group Project)",
-    "imageSrc": "Projects/pathfinding.png",
-    "description": "A project built to find the shortest path and the distance between two nodes using Dijkstra’s algorithm.",
-    "skills": ["Java", "Algorithms", "Data Structures"],
+    "title": "MindVault (Group Project)",
+    "imageSrc": "Projects/mindvault.png",
+    "description": "A project focused on secure data storage and management, with user authentication and encrypted storage features.",
+    "skills": ["Java", "Spring Boot", "MySQL", "Docker"],
     "demo": "https://your-demo-link.com",
-    "source": "https://github.com/dewnaka7264/path-finding-program"
+    "source": "https://github.com/dewnaka7264/mindvault"
+  },
+  {
+    "title": "Neural Networks",
+    "imageSrc": "Projects/neuraljpeg.jpeg",
+    "description": "A project on building and training neural networks for predicting USD/EUR exchange rates using R.",
+    "skills": ["R", "Neural Networks", "Data Normalization", "Prediction Algorithms"],
+    "demo": "https://your-demo-link.com",
+    "source": "https://github.com/dewnaka7264/neural-networks"
   }
 ]

@@ -5,7 +5,7 @@ import styles from "./Intro.module.css";
 
 const Intro = () => {
     return (
-        <section className={styles.container}>
+        <section className={styles.container} id="intro">
             <div className={styles.content}><h1>Hi, I'm Dewnaka</h1>
             <p className={styles.description}>As a software engineering undergraduate, I possess strong programming,
                 communication, and leadership skills.
