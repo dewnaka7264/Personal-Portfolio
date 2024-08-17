@@ -9,15 +9,15 @@ const Contact = () => {
             </div>
             <ul className={styles.links}>
                 <li className={styles.link}>
-                    <img src={getImageURL("contact/email.png")} alt="emailicon"/>
+                    <img src={getImageURL("Contact/email.png")} alt="emailicon"/>
                     <a href="mailto:lithilakavi@gmail.com">lithilakavi@gmail.com</a>
                 </li>
                 <li className={styles.link}>
-                    <img src={getImageURL("contact/linkedin.png")} alt="linkedinicon"/>
+                    <img src={getImageURL("Contact/linkedin.png")} alt="linkedinicon"/>
                     <a href="www.linkedin.com/in/lithila-dewnaka">LinkedIn Profile</a>
                 </li>
                 <li className={styles.link}>
-                    <img src={getImageURL("contact/github.png")} alt="githubicon"/>
+                    <img src={getImageURL("Contact/github.png")} alt="githubicon"/>
                     <a href="https://github.com/dewnaka7264">Github Profile</a>
                 </li>
             </ul>

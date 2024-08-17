@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./ProjectCard.module.css";
 import {getImageURL} from "../../utils.js";
-
+import projects from "./Projects.jsx";
 const ProjectCard = ({ project: { title, imageSrc, description, skills, demo, source } }) => {
     return (
         <div className={styles.container}>
