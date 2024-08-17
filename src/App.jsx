@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar/Navbar.jsx";
 import Intro from './components/Intro/Intro.jsx';
 import About from "./components/About/About.jsx";
 import Experience from "./components/Experience/Experience.jsx";
-
+import Projects from "./components/Projects/Projects.jsx";
 function App() {
 
   return (
@@ -13,6 +13,7 @@ function App() {
         <Intro/>
         <About/>
       <Experience/>
+        <Projects/>
     </div>
   )
 }

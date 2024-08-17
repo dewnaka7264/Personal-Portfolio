@@ -1,0 +1,34 @@
+[
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "Projects/gymshark.png",
+    "description": "A fully functioning e-commerce website with a responsive and attractive design, integrated using React, JavaScript, and Firebase. GitHub Actions are enabled to facilitate CI/CD.",
+    "skills": ["React.js", "JavaScript", "Firebase", "CSS"],
+    "demo": "https://your-demo-link.com",
+    "source": "https://github.com/dewnaka7264/ecommerce-website"
+  },
+  {
+    "title": "Sports Club Website",
+    "imageSrc": "Projects/sportsclub.png",
+    "description": "An interactive website created using HTML, CSS, and JavaScript, featuring an interactive quiz, sitemap, and other engaging elements.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://your-demo-link.com",
+    "source": "https://github.com/dewnaka7264/sportsclub-website"
+  },
+  {
+    "title": "Eye Tracking Project",
+    "imageSrc": "Projects/eyetracking.png",
+    "description": "A real-time face and eye detection system implemented using pre-trained models and Haar Cascade classifiers.",
+    "skills": ["Python", "OpenCV", "Machine Learning"],
+    "demo": "https://your-demo-link.com",
+    "source": "https://github.com/dewnaka7264/eye-tracking-project"
+  },
+  {
+    "title": "Path Finding Program for Puzzles",
+    "imageSrc": "Projects/pathfinding.png",
+    "description": "A project built to find the shortest path and the distance between two nodes using Dijkstra’s algorithm.",
+    "skills": ["Java", "Algorithms", "Data Structures"],
+    "demo": "https://your-demo-link.com",
+    "source": "https://github.com/dewnaka7264/path-finding-program"
+  }
+]
