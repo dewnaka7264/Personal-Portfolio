@@ -24,8 +24,10 @@
     flex-direction: row;
     align-items: center;
 }
+
 .aboutImage{
     width: 35%;
+    border-radius: 100%;
 }
 .aboutItems{
     color: var(--color-text);

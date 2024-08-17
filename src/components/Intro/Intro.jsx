@@ -14,7 +14,7 @@ const Intro = () => {
                 I am currently expanding my expertise by learning full stack development tools.*/}</p>
             <a href="mailto:lithilakavi@gmail.com" className={styles.contactBtn}>Contact me</a>
             </div>
-            <img className={styles.DewnakaImg} src="src/Assets/Intro/dewnaka.png" alt="Dewnaka Image" />
+            <img className={styles.DewnakaImg} src="src/Assets/Intro/DEWNAKA.jpg" alt="Dewnaka Image" />
 
 
 

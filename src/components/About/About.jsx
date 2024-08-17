@@ -6,7 +6,7 @@ const About = () => {
         <section className={styles.container} id="about">
 <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
-                <img src={getImageURL()} alt="Dewnaka image " className={styles.aboutImage}/>
+                {/*<img src={getImageURL('Intro/DewnakaStanding.jpg')} alt="Dewnaka image " className={styles.aboutImage}/>*/}
             </div>
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}><img src={getImageURL("About/web-development.png")} alt="cursor"/>
